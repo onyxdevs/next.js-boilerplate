@@ -1,4 +1,4 @@
-## nextjs-boilerplate
+## Next.js Boilerplate
 
 Next.js is a minimalistic React framework that runs on the browser and the server. It offers developers an easy way to get started, and as it uses React.js for templating, it's also a straightforward way for developers with React experience to get productive quickly.
 
